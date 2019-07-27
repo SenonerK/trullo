@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "webclient"
+		},
+		{
+			"path": "api"
+		}
+	],
+	"settings": {}
+}
